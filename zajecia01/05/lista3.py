@@ -19,3 +19,6 @@ print(imiona)
 
 imiona.pop(0)
 print(imiona)
+
+imiona.remove('Celina')
+print(imiona)
